@@ -1,0 +1,34 @@
+C:\Users\USUARIO\Desktop\BarbasBigodes\bin\Debug\BarbasBigodes.exe.config
+C:\Users\USUARIO\Desktop\BarbasBigodes\bin\Debug\BarbasBigodes.exe
+C:\Users\USUARIO\Desktop\BarbasBigodes\bin\Debug\BarbasBigodes.pdb
+C:\Users\USUARIO\Desktop\BarbasBigodes\obj\Debug\BarbasBigodes.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\BarbasBigodes\obj\Debug\BarbasBigodes.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmLogin.resources
+C:\Users\USUARIO\Desktop\BarbasBigodes\obj\Debug\BarbasBigodes.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\BarbasBigodes\obj\Debug\BarbasBigodes.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\BarbasBigodes\obj\Debug\BarbasBigodes.exe
+C:\Users\USUARIO\Desktop\BarbasBigodes\obj\Debug\BarbasBigodes.pdb
+C:\Users\USUARIO\Desktop\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmAgendamentos.resources
+C:\Users\USUARIO\Desktop\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmAtendimentos.resources
+C:\Users\USUARIO\Desktop\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmBarbeiros.resources
+C:\Users\USUARIO\Desktop\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmClientes.resources
+C:\Users\USUARIO\Desktop\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmPrincipal.resources
+C:\Users\USUARIO\Desktop\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmServicos.resources
+C:\Users\USUARIO\Desktop\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmUsuarios.resources
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\bin\Debug\BarbasBigodes.exe.config
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\bin\Debug\BarbasBigodes.exe
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\bin\Debug\BarbasBigodes.pdb
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\obj\Debug\BarbasBigodes.csproj.AssemblyReference.cache
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\obj\Debug\BarbasBigodes.Properties.Resources.resources
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmAgendamentos.resources
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmAtendimentos.resources
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmBarbeiros.resources
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmClientes.resources
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmLogin.resources
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmPrincipal.resources
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmServicos.resources
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\obj\Debug\BarbasBigodes.Views.FrmUsuarios.resources
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\obj\Debug\BarbasBigodes.csproj.GenerateResource.cache
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\obj\Debug\BarbasBigodes.csproj.CoreCompileInputs.cache
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\obj\Debug\BarbasBigodes.exe
+D:\2 - Linguagens de Programação\C#\BarbasBigodes\obj\Debug\BarbasBigodes.pdb
